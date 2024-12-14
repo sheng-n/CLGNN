@@ -16,7 +16,7 @@ def normalize(mx):  #
     return mx
 
 
-'''Construct CDKG graph''' #按照drug, disease
+'''Construct CDKG graph''' 
 def construct_graph(drug_dis):
     drug_shape = drug_dis.shape[0]
     dis_shape = drug_dis.shape[1]
