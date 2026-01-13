@@ -1,6 +1,6 @@
 # CLGNN
 ## 1. Overview
-The code for paper xx". The repository is organized as follows:
+The code for paper "Arachidonic acid induces pyroptosis via a non-autophagic function of mitophagy and enhances immunotherapy in a PDAC model". The repository is organized as follows:
 
 + `data/` contains the dataset in the paper;
   * `CTD_chemicals_diseases.xlsx` contain known chemical-disease associations collected and processed from the CTD database;
